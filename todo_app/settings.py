@@ -27,8 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "localhost",
-    "127.0.0.1",
-    "d456c75d8aaf.ngrok.io",
+    "jinalera3.pythonanywhere.com"
 ]
 
 
